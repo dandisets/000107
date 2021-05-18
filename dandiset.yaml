@@ -2,11 +2,32 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000107
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.3.0/context.json
+about: []
+access:
+- contactPoint:
+    schemaKey: ContactPoint
+  status: dandi:Open
 citation: 'IVSCC stimulus sets (2021). Online: https://dandiarchive.org/000107/draft'
-description: IVSCC production stimulus sets stored in NWB formal
+contributor: []
+description: Allen Institute for Brain Science IVSCC (In-vitro Single Cell Characterization)
+  project stimulus sets stored in NWB format
+ethicsApproval: []
 id: 000107/draft
 identifier: DANDI:000107
+keywords:
+- electrophysiology
+- 'MIES '
+license: []
+manifestLocation: []
 name: IVSCC stimulus sets
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org/
 schemaVersion: 0.3.0
+studyTarget: []
 url: https://dandiarchive.org/000107/draft
 version: draft
+wasGeneratedBy:
+- name: IVSCC
+  schemaKey: Project
+  wasAssociatedWith: []
