@@ -17,12 +17,14 @@ identifier: DANDI:000107
 keywords:
 - electrophysiology
 - 'MIES '
-license: []
+license:
+- spdx:CC-BY-NC-4.0
 manifestLocation: []
 name: IVSCC stimulus sets
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000107/draft
