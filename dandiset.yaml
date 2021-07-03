@@ -8,17 +8,8 @@ access:
     schemaKey: ContactPoint
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 39294842
-  numberOfFiles: 1
-  schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: IVSCC stimulus sets (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000107/draft
 contributor: []
 description: Allen Institute for Brain Science IVSCC (In-vitro Single Cell Characterization)
