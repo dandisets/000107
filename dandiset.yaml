@@ -31,7 +31,8 @@ keywords:
 - 'MIES '
 license:
 - spdx:CC-BY-NC-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000107/versions/draft/assets/
 name: IVSCC stimulus sets
 protocol: []
 relatedResource: []
