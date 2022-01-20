@@ -20,7 +20,7 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: IVSCC stimulus sets (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000107/draft
+citation: IVSCC stimulus sets (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000107/draft
 contributor: []
 dateCreated: '2021-05-18T16:07:40.840082+00:00'
 description: Allen Institute for Brain Science IVSCC (In-vitro Single Cell Characterization)
